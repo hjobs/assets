@@ -1,2 +1,0 @@
-# assets
-storing assets
